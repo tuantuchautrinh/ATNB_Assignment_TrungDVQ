@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATNB_Assignment_TrungDVQ", "ATNB_Assignment_TrungDVQ\ATNB_Assignment_TrungDVQ.csproj", "{125B37E7-DE03-4C2E-9198-25FBA0597085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATNB_Assignment_TrungDVQ.Tests", "ATNB_Assignment_TrungDVQ.Tests\ATNB_Assignment_TrungDVQ.Tests.csproj", "{B2B62136-096D-4B37-9E52-68A19369B381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125B37E7-DE03-4C2E-9198-25FBA0597085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125B37E7-DE03-4C2E-9198-25FBA0597085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125B37E7-DE03-4C2E-9198-25FBA0597085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125B37E7-DE03-4C2E-9198-25FBA0597085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B62136-096D-4B37-9E52-68A19369B381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B62136-096D-4B37-9E52-68A19369B381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B62136-096D-4B37-9E52-68A19369B381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B62136-096D-4B37-9E52-68A19369B381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
